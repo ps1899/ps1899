@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Prateek Srivastava**
-- 👀 **Computer Engineering from New York University' 24**.
+- 👀 **MS Computer Engineering from New York University' 24**.
 - 👩‍💻 Worked in **HSBC & Accenture as a Software Developer**.
 - 🌱 I’m am interested in **DSA, Machine Learning, Deep Learning, Android Development, Blockchain, Algorithmic Trading**.
 - 💞️ I’m looking to collaborate on various **computer science projects and open source contribution**.
