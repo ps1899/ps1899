@@ -1,5 +1,5 @@
-- 👋 Hola, I’m **Prateek Srivastava**
-- 👀 Currently pursuing **MS Computer Science Engineering from New York University (NYU)**.
+- 👋 Hey, I’m **Prateek Srivastava**
+- 👀 Recently completed **MS Computer Science Engineering from New York University (NYU)**.
 - 👩‍💻 A Budding Software Engineer with almost **2 years of Professional experience**.
 - 🌱 I’m experienced and interested in **Full-Stack Development, AI/ML/DL, Quantitative Finance, Applied Mathematics, and much more**.
 - 💞️ I’m actively pursuing to collaborate on various **Computer science projects and open source contribution**.
